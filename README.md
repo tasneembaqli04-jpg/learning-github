@@ -1,6 +1,6 @@
 # learning-github
 repo about github learning
-# 📘 GitLearn — אתר לימוד GitHub בעברית
+# 📘 GitLearn — אתר לימוד
 
 אתר אינטראקטיבי ללימוד Git ו-GitHub מאפס ועד רמה מקצועית, בעברית מלאה.
 
